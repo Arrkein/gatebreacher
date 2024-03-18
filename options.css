@@ -1,0 +1,295 @@
+.rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 2px solid var(--color-red-200);
+  box-sizing: border-box;
+}
+.antivirus3,
+.editor2,
+.start-hack1,
+.tutorials2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.antivirus3,
+.editor2,
+.tutorials2 {
+  left: 32.42%;
+}
+.antivirus3,
+.tutorials2 {
+  left: 60.5%;
+}
+.tutorials2 {
+  top: 4%;
+  left: 84.02%;
+}
+.tabs1 {
+  position: absolute;
+  height: 41.67%;
+  width: 30.42%;
+  top: 30%;
+  right: 64.51%;
+  bottom: 28.33%;
+  left: 5.07%;
+}
+.code-logo-circle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-red-100);
+}
+.code-logo-11 {
+  position: absolute;
+  height: 55.65%;
+  width: 50.77%;
+  top: 19.57%;
+  right: 24.62%;
+  bottom: 24.78%;
+  left: 24.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.symbole-code1 {
+  position: absolute;
+  height: 79.31%;
+  width: 16.96%;
+  top: 10.34%;
+  right: 83.04%;
+  bottom: 10.34%;
+  left: 0;
+}
+.gatebreacher1 {
+  position: absolute;
+  top: 0;
+  left: 25.22%;
+  font-weight: 500;
+}
+.main-button1 {
+  position: absolute;
+  height: 48.33%;
+  width: 15.97%;
+  top: 26.67%;
+  right: 42.01%;
+  bottom: 25%;
+  left: 42.01%;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 60px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-red-100);
+}
+.chose-your-fate,
+.select-your-device,
+.select-your-target {
+  position: absolute;
+  top: 160px;
+  left: 369px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  color: var(--color-red-100);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 702px;
+  height: 118px;
+}
+.chose-your-fate,
+.select-your-target {
+  top: 958px;
+}
+.chose-your-fate {
+  top: 1856px;
+}
+.rubber-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-79xl);
+  background-color: var(--color-gray-100);
+}
+.rubber-ducky {
+  position: absolute;
+  height: 73.91%;
+  width: 79.19%;
+  top: 13.04%;
+  left: 10.56%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.privesc,
+.recon,
+.rubber {
+  position: absolute;
+  left: 129px;
+  width: 322px;
+  height: 69px;
+}
+.rubber {
+  top: 429px;
+  cursor: pointer;
+}
+.privesc,
+.recon {
+  top: 2174px;
+}
+.privesc {
+  top: 2388px;
+  left: 130px;
+}
+.linux {
+  top: 1276px;
+  left: 270px;
+  cursor: pointer;
+}
+.bash,
+.linux,
+.pivoting,
+.remote,
+.windows {
+  position: absolute;
+  width: 322px;
+  height: 69px;
+}
+.windows {
+  top: 1276px;
+  left: 847px;
+  cursor: pointer;
+}
+.bash,
+.pivoting,
+.remote {
+  top: 429px;
+  left: 559px;
+}
+.pivoting,
+.remote {
+  top: 2174px;
+}
+.pivoting {
+  top: 2388px;
+  left: 560px;
+}
+.miscellaneous,
+.p4wnp1,
+.password {
+  position: absolute;
+  left: 989px;
+  width: 322px;
+  height: 69px;
+}
+.p4wnp1 {
+  top: 429px;
+  cursor: pointer;
+}
+.miscellaneous,
+.password {
+  top: 2174px;
+}
+.miscellaneous {
+  top: 2388px;
+  left: 990px;
+}
+.options-child,
+.options-inner,
+.options-item {
+  position: absolute;
+  top: 760.5px;
+  left: calc(50% - 417px);
+  max-height: 100%;
+  width: 834px;
+}
+.options-inner,
+.options-item {
+  top: 1647px;
+}
+.options-inner {
+  top: 2697px;
+}
+.rectangle2 {
+  position: absolute;
+  height: 106.67%;
+  width: 100.28%;
+  top: -3.33%;
+  right: -0.14%;
+  bottom: -3.33%;
+  left: -0.14%;
+  background-color: var(--color-gray-100);
+  border: 2px solid var(--color-red-200);
+  box-sizing: border-box;
+}
+.antivirus4,
+.editor3,
+.start-hack2 {
+  position: absolute;
+  top: 0;
+  line-height: 24px;
+}
+.start-hack2 {
+  left: 0;
+  cursor: pointer;
+}
+.antivirus4,
+.editor3 {
+  left: 38.52%;
+}
+.antivirus4 {
+  left: 75.1%;
+}
+.tabs2 {
+  position: absolute;
+  height: 40%;
+  width: 17.85%;
+  top: 30%;
+  right: 77.08%;
+  bottom: 30%;
+  left: 5.07%;
+}
+.bottom-bar {
+  position: absolute;
+  top: 2906px;
+  left: 0;
+  width: 1440px;
+  height: 60px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-red-100);
+}
+.options {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 2968px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat-alternates);
+}

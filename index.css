@@ -1,0 +1,386 @@
+.light {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-100);
+  width: 1274px;
+}
+.button,
+.dark,
+.grey-bg,
+.light {
+  position: absolute;
+  height: 637px;
+}
+.dark {
+  top: 0;
+  left: 637px;
+  border-radius: var(--br-31xl);
+  background-color: #111;
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 637px;
+}
+.button,
+.grey-bg {
+  top: 104px;
+  left: 83px;
+  width: 1274px;
+}
+.button {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-red-100);
+}
+.start-now {
+  position: absolute;
+  height: 68.75%;
+  width: 84.91%;
+  top: 16.67%;
+  left: 7.55%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bouton-start {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.start-button {
+  position: absolute;
+  top: 579px;
+  left: 148px;
+  width: 212px;
+  height: 48px;
+  cursor: pointer;
+  font-size: var(--font-size-11xl);
+}
+.main-description {
+  position: absolute;
+  top: 379px;
+  left: 148px;
+  font-size: 20px;
+  text-align: justify;
+  display: inline-block;
+  width: 527px;
+  height: 148px;
+}
+.shield-1-icon,
+.usb-drive-icon {
+  position: absolute;
+  top: 1821px;
+  left: 983px;
+  width: 173px;
+  height: 173px;
+  object-fit: cover;
+}
+.usb-drive-icon {
+  top: 295px;
+  left: 904px;
+  width: 270.6px;
+  height: 270.6px;
+}
+.read-head {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red-100);
+  width: 1440px;
+  height: 7px;
+}
+.start-now1 {
+  position: absolute;
+  height: 68.71%;
+  width: 84.89%;
+  top: 16.77%;
+  left: 7.52%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hack-now {
+  position: absolute;
+  top: 231px;
+  left: 0;
+  width: 137px;
+  height: 31px;
+  cursor: pointer;
+}
+.set-up-your {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.discover-hacking-through {
+  margin: 0;
+}
+.body {
+  position: absolute;
+  width: 100%;
+  top: 64px;
+  left: 0;
+  line-height: 30px;
+  display: inline-block;
+}
+.title,
+.usbhacking-block {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.title {
+  width: 100%;
+  font-size: var(--font-size-17xl);
+  line-height: 48px;
+  font-weight: 500;
+  font-family: var(--font-montserrat-alternates);
+  color: var(--color-red-100);
+  text-align: left;
+  display: inline-block;
+}
+.usbhacking-block {
+  width: 540px;
+  height: 204px;
+  text-align: justify;
+  font-size: var(--font-size-lg);
+}
+.antivirus-testing,
+.hack-now2,
+.start-hacking {
+  position: absolute;
+  top: 934px;
+  left: 83px;
+  width: 540px;
+  height: 262px;
+}
+.antivirus-testing,
+.hack-now2 {
+  top: 1779px;
+  left: 93px;
+}
+.hack-now2 {
+  top: 228px;
+  left: 403px;
+  width: 137px;
+  height: 31px;
+  cursor: pointer;
+}
+.body2 {
+  position: absolute;
+  width: 100%;
+  top: 64px;
+  left: 0;
+  line-height: 30px;
+  display: inline-block;
+  height: 129px;
+}
+.editor-block,
+.title2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.title2 {
+  width: 100%;
+  font-size: var(--font-size-17xl);
+  line-height: 48px;
+  font-weight: 500;
+  font-family: var(--font-montserrat-alternates);
+  color: var(--color-red-100);
+  display: inline-block;
+}
+.editor-block {
+  width: 540px;
+  height: 204px;
+  text-align: right;
+  font-size: var(--font-size-lg);
+}
+.code-editor,
+.rectangle,
+.tutorials {
+  position: absolute;
+  top: 1332px;
+  left: 807px;
+  width: 540px;
+  height: 259px;
+}
+.rectangle,
+.tutorials {
+  top: 2182px;
+}
+.rectangle {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border: 2px solid var(--color-red-200);
+  box-sizing: border-box;
+}
+.antivirus,
+.editor,
+.start-hack,
+.tutorials1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.antivirus,
+.editor,
+.tutorials1 {
+  left: 32.42%;
+}
+.antivirus,
+.tutorials1 {
+  left: 60.5%;
+}
+.tutorials1 {
+  top: 4%;
+  left: 84.02%;
+}
+.code-logo-1,
+.tabs {
+  position: absolute;
+  height: 41.67%;
+  width: 30.42%;
+  top: 30%;
+  right: 64.51%;
+  bottom: 28.33%;
+  left: 5.07%;
+}
+.code-logo-1 {
+  height: 55.65%;
+  width: 50.77%;
+  top: 19.57%;
+  right: 24.62%;
+  bottom: 24.78%;
+  left: 24.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.symbole-code {
+  position: absolute;
+  height: 79.31%;
+  width: 16.96%;
+  top: 10.34%;
+  right: 83.04%;
+  bottom: 10.34%;
+  left: 0;
+}
+.gatebreacher {
+  position: absolute;
+  top: 0;
+  left: 25.22%;
+  font-weight: 500;
+}
+.main-button {
+  position: absolute;
+  height: 48.33%;
+  width: 15.97%;
+  top: 26.67%;
+  right: 42.01%;
+  bottom: 25%;
+  left: 42.01%;
+  cursor: pointer;
+  font-size: var(--font-size-5xl);
+}
+.navbar {
+  position: absolute;
+  top: 2625px;
+  left: 0;
+  width: 1440px;
+  height: 60px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-red-100);
+  font-family: var(--font-montserrat-alternates);
+}
+.back-main,
+.usb-attacks {
+  position: absolute;
+  top: 50.41%;
+  left: 0;
+  font-weight: 500;
+}
+.usb-attacks {
+  top: 0;
+  left: 23.4%;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.small-logo-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-29xl);
+  background-color: var(--color-red-100);
+}
+.code-icon {
+  position: absolute;
+  height: 55.56%;
+  width: 49.21%;
+  top: 22.22%;
+  right: 25.4%;
+  bottom: 22.22%;
+  left: 25.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.small-logo {
+  position: absolute;
+  height: 29.27%;
+  width: 17.55%;
+  top: 0.81%;
+  right: 81.89%;
+  bottom: 69.92%;
+  left: 0.56%;
+}
+.title4 {
+  position: absolute;
+  top: 213px;
+  left: 148px;
+  width: 359px;
+  height: 123px;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-red-100);
+  font-family: var(--font-montserrat-alternates);
+}
+.kali-red-1-icon {
+  position: absolute;
+  top: 964px;
+  left: 847px;
+  width: 445px;
+  height: 250px;
+  object-fit: cover;
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 2685px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
